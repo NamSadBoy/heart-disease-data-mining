@@ -1,4 +1,4 @@
-outputs/
+outputs/model
 __pycache__/
 *.pyc
 .vscode/

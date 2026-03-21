@@ -41,8 +41,7 @@ Sử dụng **thuật toán Apriori** để tìm mối quan hệ giữa các đ�
 
 Tham số sử dụng:
 
-* min_support = 0.2
-* min_confidence = 0.6
+* min_support = 0.15
 * lift > 1.2
 * max_len = 2
 
